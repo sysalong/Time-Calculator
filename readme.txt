@@ -2,6 +2,6 @@
 
 ![image](https://github.com/sysalong/Time-Calculator/blob/main/%E6%97%B6%E5%B7%AE%E6%97%B6%E9%97%B4%E5%85%B3%E7%B3%BB%E5%AF%B9%E5%BA%94%E6%9F%A5%E8%AF%A2%E5%B7%A5%E5%85%B7.png)
 
-![alt text](时差时间关系对应查询工具.png "optional title")
+![alt text](tool-pic.png "optional title")
 
 可以直接下载目录中的exe文件即可。
